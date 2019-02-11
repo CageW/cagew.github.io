@@ -1,10 +1,10 @@
 # Site settings
 title: Blog
-SEOTitle: 恺祺的博客 | BY Blog
+SEOTitle: 恺祺的博客 | CageW Blog
 header-img: img/post-bg-desk.jpg
 email: 2047074421@qq.com
 description: "Cheer up!"
-keyword: "BY, BY Blog, 恺祺的博客, wangkaiqi, 王恺祺, android, XIAOMI"
+keyword: "CageW, CageW Blog, 恺祺的博客, wangkaiqi, 王恺祺, android, XIAOMI"
 url: "http://cagew.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/cagew/cagew.github.io.git" # you code repository
